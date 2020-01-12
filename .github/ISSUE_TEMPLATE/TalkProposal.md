@@ -4,7 +4,6 @@ about: Стартовая точка подачи доклада на митап
 title: ''
 labels: talk
 assignees: mpsnp
-
 ---
 
 ## Уровень сложности
