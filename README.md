@@ -46,8 +46,7 @@ This allows you to use and remix any of this content, only requiring that you pr
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey
 
-[telegram-channel]: tg://join?invite=AAAAAFX6MT-bYTXpgU7O-w
+[telegram-channel]: https://tlgg.ru/joinchat/AAAAAFX6MT-bYTXpgU7O-w
 [telegram-channel-shield]: https://img.shields.io/badge/Telegram-Channel-informational?logo=telegram
-
-[telegram-chat]: tg://join?invite=Bs0RLE48zKoVltig3GRmlw
+[telegram-chat]: https://tlgg.ru/joinchat/Bs0RLE48zKoVltig3GRmlw
 [telegram-chat-shield]: https://img.shields.io/badge/Telegram-Chat-informational?logo=telegram
