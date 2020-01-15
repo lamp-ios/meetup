@@ -11,7 +11,7 @@ This repository is intended for preparation of future Lamp iOS Meetups, as well 
 
 ## ❓ What's the Lamp iOS?
 
-Lamp iOS is **monthly**, **community driven** & **local** iOS meetup in Krasnodar. 
+Lamp iOS is **monthly**, **community driven**, **cosy** iOS meetup in Krasnodar. 
 
 The main goals of this meetup are boosting community growth, cultivation of networking & experience sharing among iOS developers in Krasnodar.
 
