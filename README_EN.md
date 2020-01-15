@@ -24,13 +24,13 @@ We are welcoming all contributions from anybody who can help with anything! This
 - **📼 Be a video editor:** We record videos of all our meetings (at least official part), so we welcome anybody who can help with editing those and publishing.
 - **❓ Suggest a debate topic:** If you'd like to have a debates about specific topic, we can find somebody to speak about it first, so the conversation can be more productive. Please, [let us know][submit-issue] about it.
 - **👨‍💻 Suggest a speaker:** Though, all of us are iOS developers, and know trends and public persons in broader community, don't hesitate to [suggest somebody][submit-issue] who can do an interesting talk.
-- **👷‍♂️ Help with meeting preparations:** Find a new nice place to have a meeting on or experiment with format — we are open to your thoughts. Join our telegram chat, or ping anybody from core team directly.
+- **👷‍♂️ Help with meeting preparations:** Find a new nice place to have a meeting on or experiment with format — we are open to your thoughts. Join our telegram chat, or ping anybody from [core team](#-core-team) directly.
 - **💵 Be a sponsor:** We usually rent a conference rooms or any other places where we are meeting, as well as have other expenses for food, drinks, etc.
 - **🗣 [Suggest any improvements][submit-issue] / do pull requests** 
 
 ## 📄 Call for Papers
 
-We always encourage you to be a speaker, and share your thoughts with all of us. If you have something that's worth our mention, just [submit an issue][submit-issue], and we'll help you to prepare a talk.
+We always encourage you to be a speaker, and share your thoughts with all of us. If you have something that's worth our mention, just [submit an issue][submit-issue] (or [contact directly](#-core-team)), and we'll help you to prepare a talk.
 
 If you want to influence on which talks will be on next meetup, do votes, comments, etc. on [existing talks proposals][talks-proposals].
 
