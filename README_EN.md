@@ -4,8 +4,8 @@
 [![telegram-chat-shield]][telegram-chat]
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-- [Русский](README)
-- [English](README_EN) 👈
+- [Русский](README.md)
+- [English](README_EN.md) 👈
 
 This repository is intended for preparation of future Lamp iOS Meetups, as well as keeping track of past events and their artefacts.
 
