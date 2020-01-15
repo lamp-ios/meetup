@@ -20,7 +20,7 @@ The main goals of this meetup are boosting community growth, cultivation of netw
 We are welcoming all contributions from anybody who can help with anything! This is by no means a complete list, but here are a few ways to contribute to the project:
 
 - **📢 Be a speaker:** If you want to train you public speaking skills, submit an issue with your speech details. We have a [nice issue template][submit-issue] which will guide you through all required details.
-- **🎤 Be a host or cohost:** It's always fun to organize everything on stage, especially if you are a good talker 😉
+- **🎤 Be a host or cohost:** It's always fun to organize everything on stage, especially if you are a good talker
 - **📼 Be a video editor:** We record videos of all our meetings (at least official part), so we welcome anybody who can help with editing those and publishing.
 - **❓ Suggest a debate topic:** If you'd like to have a debates about specific topic, we can find somebody to speak about it first, so the conversation can be more productive. Please, [let us know][submit-issue] about it.
 - **👨‍💻 Suggest a speaker:** Though, all of us are iOS developers, and know trends and public persons in broader community, don't hesitate to [suggest somebody][submit-issue] who can do an interesting talk.
