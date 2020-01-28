@@ -15,6 +15,13 @@ Lamp iOS is **monthly**, **community driven**, **cosy** iOS meetup in Krasnodar.
 
 The main goals of this meetup are boosting community growth, cultivation of networking & experience sharing among iOS developers in Krasnodar.
 
+## 🏗 Format
+
+- 📢 2-4 reports with duration of 10-20 min (less watered down, maximum benefit), may be nice discussion jumpstarts.
+- 🗣 20-40 min for questions/discussions after each report
+- ❓ during discussions nice questions could arise. If those are huge, then those are good themes for next reports, with dedicated discussions. If not, and timings are ok, those are good for the round-table discussion at the end.
+- 🎉 after official part — afterparty, where we continuing further networking.
+
 ## 🤝 Contributing
 
 We are welcoming all contributions from anybody who can help with anything! This is by no means a complete list, but here are a few ways to contribute to the project:
