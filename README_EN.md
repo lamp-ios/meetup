@@ -41,6 +41,12 @@ We always encourage you to be a speaker, and share your thoughts with all of us.
 
 If you want to influence on which talks will be on next meetup, do votes, comments, etc. on [existing talks proposals][talks-proposals].
 
+### 🔨 Reports requirements
+
+Since we don’t want to make preparations for the meetup a hassle, the only requirement for the report is to demonstrate it at least 1 time to someone from [CoreTeam](#-core-team) and get feedback. 
+
+As reports are 10-20 minutes long, this will not take too much time.
+
 ## 📣 Spread the Word
 
 - Tell your friends about our meetup, it's always nice to have new people onboard
