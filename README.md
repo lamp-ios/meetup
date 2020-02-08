@@ -58,7 +58,7 @@
 - **Георгий Кирий**  
   [![george-gh-shield]][george-gh] [![george-tg-shield]][george-tg]
 - **Владислав Мякотин**  
-  [![vladislav-gh-shield]][vladislav-gh]
+  [![vladislav-gh-shield]][vladislav-gh] [![vladislav-tg-shield]][vladislav-tg]
 - **Евгений Абашкин**  
   [![evgeniy-gh-shield]][evgeniy-gh] [![evgeniy-tg-shield]][evgeniy-tg]
 - **Тимофей Плотников**  
@@ -84,6 +84,9 @@
 [george-gh]: https://github.com/mpsnp
 [george-gh-shield]: https://img.shields.io/badge/@mpsnp-informational?logo=github&style=social
 
+
+[vladislav-tg]: https://tlgg.ru/myakotinv
+[vladislav-tg-shield]: https://img.shields.io/badge/@myakotinv-informational?logo=telegram&style=social
 [vladislav-gh]: https://github.com/vladislav-m
 [vladislav-gh-shield]: https://img.shields.io/badge/@vladislav--m-informational?logo=github&style=social
 
