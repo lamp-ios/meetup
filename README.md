@@ -63,10 +63,6 @@
   [![george-gh-shield]][george-gh] [![george-tg-shield]][george-tg]
 - **Владислав Мякотин**  
   [![vladislav-gh-shield]][vladislav-gh] [![vladislav-tg-shield]][vladislav-tg]
-- **Евгений Абашкин**  
-  [![evgeniy-gh-shield]][evgeniy-gh] [![evgeniy-tg-shield]][evgeniy-tg]
-- **Тимофей Плотников**  
-  [![tim-gh-shield]][tim-gh] [![tim-tg-shield]][tim-tg]
 
 ## ⚖️ Лицензия
 
@@ -93,16 +89,6 @@
 [vladislav-tg-shield]: https://img.shields.io/badge/@myakotinv-informational?logo=telegram&style=social
 [vladislav-gh]: https://github.com/vladislav-m
 [vladislav-gh-shield]: https://img.shields.io/badge/@vladislav--m-informational?logo=github&style=social
-
-[evgeniy-tg]: https://tlgg.ru/AEvgen1y
-[evgeniy-tg-shield]: https://img.shields.io/badge/@AEvgen1y-informational?logo=telegram&style=social
-[evgeniy-gh]: https://github.com/AEvgeniy
-[evgeniy-gh-shield]: https://img.shields.io/badge/@AEvgeniy-informational?logo=github&style=social
-
-[tim-tg]: https://tlgg.ru/timofey_plotnikov
-[tim-tg-shield]: https://img.shields.io/badge/@timofey__plotnikov-informational?logo=telegram&style=social
-[tim-gh]: https://github.com/timopl
-[tim-gh-shield]: https://img.shields.io/badge/@timopl-informational?logo=github&style=social
 
 [submit-issue]: https://github.com/lamp-ios/meetup/issues/new/choose
 [talks-proposals]: https://github.com/lamp-ios/meetup/issues?q=is%3Aissue+is%3Aopen+label%3Atalk
