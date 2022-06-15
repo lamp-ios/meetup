@@ -70,19 +70,19 @@
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey
 
-[telegram-channel]: https://tlgg.ru/joinchat/AAAAAFX6MT-bYTXpgU7O-w
+[telegram-channel]: https://t.me/lamp_ios_krd
 [telegram-channel-shield]: https://img.shields.io/badge/Telegram-Channel-informational?logo=telegram
-[telegram-chat]: https://tlgg.ru/joinchat/Bs0RLE48zKoVltig3GRmlw
+[telegram-chat]: https://t.me/lamp_ios_krd_community
 [telegram-chat-shield]: https://img.shields.io/badge/Telegram-Chat-informational?logo=telegram
 
 
-[george-tg]: https://tlgg.ru/mpsnp
+[george-tg]: https://t.me/mpsnp
 [george-tg-shield]: https://img.shields.io/badge/@mpsnp-informational?logo=telegram&style=social
 [george-gh]: https://github.com/mpsnp
 [george-gh-shield]: https://img.shields.io/badge/@mpsnp-informational?logo=github&style=social
 
 
-[vladislav-tg]: https://tlgg.ru/myakotinv
+[vladislav-tg]: https://t.me/myakotinv
 [vladislav-tg-shield]: https://img.shields.io/badge/@myakotinv-informational?logo=telegram&style=social
 [vladislav-gh]: https://github.com/vladislav-m
 [vladislav-gh-shield]: https://img.shields.io/badge/@vladislav--m-informational?logo=github&style=social
